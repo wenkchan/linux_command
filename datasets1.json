@@ -1,0 +1,60 @@
+[ {
+    "name": "glove-25-angular",
+    "vector_size": 25,
+    "distance": "cosine",
+    "type": "h5",
+    "path": "glove-25-angular/glove-25-angular.hdf5",
+    "link": "http://ann-benchmarks.com/glove-25-angular.hdf5"
+  },
+    {
+    "name": "glove-50-angular",
+    "vector_size": 50,
+    "distance": "cosine",
+    "type": "h5",
+    "path": "glove-50-angular/glove-50-angular.hdf5",
+    "link": "http://ann-benchmarks.com/glove-50-angular.hdf5"
+  },
+  {
+    "name": "glove-100-angular",
+    "vector_size": 100,
+    "distance": "cosine",
+    "type": "h5",
+    "path": "glove-100-angular/glove-100-angular.hdf5",
+    "link": "http://ann-benchmarks.com/glove-100-angular.hdf5"
+  },
+
+  {
+    "name": "sift-128-euclidean.hdf5",
+    "vector_size": 128,
+    "distance": "euclidean",
+    "type": "h5",
+    "path": "sift-128-euclidean/sift-128-euclidean.hdf5",
+    "link": "http://ann-benchmarks.com/sift-128-euclidean.hdf5"
+  },
+  {
+    "name": "glove-200-angular",
+    "vector_size": 200,
+    "distance": "cosine",
+    "type": "h5",
+    "path": "glove-200-angular/glove-200-angular.hdf5",
+    "link": "http://ann-benchmarks.com/glove-200-angular.hdf5"
+  },
+   {
+    "name": "fashion-mnist-784-euclidean",
+    "vector_size": 784,
+    "distance": "euclidean",
+    "type": "h5",
+    "path": "fashion-mnist-784-euclidean/fashion-mnist-784-euclidean.hdf5",
+    "link": "http://ann-benchmarks.com/fashion-mnist-784-euclidean.hdf5"
+  },
+  {
+    "name": "gist-960-euclidean",
+    "vector_size": 960,
+    "distance": "euclidean",
+    "type": "h5",
+    "path": "gist-960-euclidean/gist-960-euclidean.hdf5",
+    "link": "http://ann-benchmarks.com/gist-960-euclidean.hdf5"
+  }
+ 
+  
+]
