@@ -1,0 +1,5 @@
+NEO4j_URL = "neo4j://localhost:7687"
+NEO4j_DATABASE = "neo4j"
+NEO4j_INDEX = "data_set"
+NEO4j_USER = "neo4j"
+NEO4j_PASSWORD = "fuel-morgan-echo-turbo-finance-5874"
